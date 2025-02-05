@@ -194,13 +194,6 @@ with open('eliza_session.json', 'r') as f:
 emotions = [msg['emotion'] for msg in session if 'emotion' in msg]
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on:
-- Code style
-- Development process
-- Submitting pull requests
-- Adding new features
 
 ## 📝 License
 
@@ -211,20 +204,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Original ELIZA by Joseph Weizenbaum
 - Modern UI inspired by ChatGPT
 - Contributors and maintainers
-
-## 📫 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/ELIZA](https://github.com/yourusername/ELIZA)
-
-## 🔜 Roadmap
-
-- [ ] Add support for multiple languages
-- [ ] Implement more sophisticated NLP techniques
-- [ ] Add voice interaction
-- [ ] Create a mobile app
-- [ ] Add support for plugins
 
 ## 📚 Additional Resources
 
