@@ -5,14 +5,11 @@ A modern, context-aware implementation of the classic ELIZA chatbot, featuring b
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[View Demo](#) | [Report Bug](#) | [Request Feature](#)
-
 ![ELIZA Demo](docs/images/eliza-demo.gif)
 
 ## ✨ Features
 
 - **🎯 Context-Aware Conversations**
-  - Tracks emotional state and conversation topics
   - Maintains conversation history
   - Provides contextually relevant responses
 
@@ -24,14 +21,12 @@ A modern, context-aware implementation of the classic ELIZA chatbot, featuring b
   - Session persistence
 
 - **🧠 Advanced NLP Capabilities**
-  - Emotion detection
   - Pattern matching with regular expressions
   - Subject-object extraction
   - N-gram analysis
 
 - **📊 Analysis Tools**
   - Conversation history tracking
-  - Emotion tracking
   - Response pattern usage statistics
   - Perplexity calculation
 
